@@ -1,0 +1,16 @@
+2025-09-17 00:31:27 - app.core.logging - INFO - logging - setup_logging - 117 - Logging configured successfully
+2025-09-17 00:31:27 - app.app.database - INFO - database - connect - 41 - Connecting to MongoDB at mongodb://mongodb:27017
+2025-09-17 00:31:27 - app.app.database - INFO - database - connect - 58 - Successfully connected to MongoDB
+2025-09-17 00:31:37 - app.app.database - INFO - database - disconnect - 71 - Disconnecting from MongoDB
+2025-09-17 00:31:37 - app.app.database - INFO - database - disconnect - 75 - Disconnected from MongoDB
+2025-09-17 00:31:38 - app.core.logging - INFO - logging - setup_logging - 117 - Logging configured successfully
+2025-09-17 00:31:38 - app.app.database - INFO - database - connect - 41 - Connecting to MongoDB at mongodb://mongodb:27017
+2025-09-17 00:31:38 - app.app.database - INFO - database - connect - 58 - Successfully connected to MongoDB
+2025-09-17 00:32:03 - app.middleware.request - INFO - logging - __call__ - 148 - Request: GET /health
+2025-09-17 00:32:14 - app.middleware.request - INFO - logging - __call__ - 148 - Request: GET /employees
+2025-09-17 00:32:21 - app.middleware.request - INFO - logging - __call__ - 148 - Request: GET /employees/search
+2025-09-17 00:32:42 - app.app.database - INFO - database - disconnect - 71 - Disconnecting from MongoDB
+2025-09-17 00:32:42 - app.app.database - INFO - database - disconnect - 75 - Disconnected from MongoDB
+2025-09-17 00:32:42 - app.core.logging - INFO - logging - setup_logging - 117 - Logging configured successfully
+2025-09-17 00:32:42 - app.app.database - INFO - database - connect - 41 - Connecting to MongoDB at mongodb://mongodb:27017
+2025-09-17 00:32:42 - app.app.database - INFO - database - connect - 58 - Successfully connected to MongoDB
