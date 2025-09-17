@@ -23,8 +23,8 @@ A production-ready FastAPI application for managing employee records with MongoD
 
 1. **Clone and install dependencies**
    ```bash
-   git clone <repository-url>
-   cd llumo.ai
+   git clone https://github.com/takshch/fastapi-example
+   cd fastapi-example
    pip install -e .
    ```
 
